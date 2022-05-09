@@ -5,7 +5,7 @@ Download JDK17.
 https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
 
 Download Java Runtime Environment.
-https://cdn.discordapp.com/attachments/939196382663815218/958431466629513246/jre-8u321-windows-x64.exe
+https://jre-8u321-windows-x64.exe
 
 Download latest Forge for 1.18.1.
 https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html
