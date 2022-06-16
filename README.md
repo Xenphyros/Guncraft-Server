@@ -11,6 +11,6 @@ Download latest Forge for 1.18.1.
 https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html
 
 Download the mod folder and place inside your ".minecraft" folder.(If you can not find this folder, press Win+R and type %appdata%).
-https://drive.google.com/file/d/1ZrUDWkDLPrcgRIVgLBB_3xiUmIWIF6yR/view?usp=sharing
+https://drive.google.com/drive/folders/1Oi1Gu2JXMqCvbtzH85gjEGEEMuzEPhLc?usp=sharing
 
 To join the server, the IP is :guncraft.rdcsmp.live.
