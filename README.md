@@ -1,5 +1,5 @@
-# Guncraft-Server
-Joining the Guncraft Modded Survival Server:
+# DungeonCraft-Server
+Joining the Dungeoncraft Modded Survival Server:
 
 Download JDK17.
 https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.exe
